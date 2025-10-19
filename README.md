@@ -129,22 +129,6 @@ Each component will be designed for **reusability** and **consistency** across t
 
 ---
 
-## ✅ Manual Review
 
-This project will undergo **manual review** for completion and accuracy.  
-Ensure all required sections are included and properly formatted in the `README.md`.
 
----
 
-## 🚀 Submission Instructions
-
-- Repository: **airbnb-clone-project**  
-- File: **README.md**  
-- Push all updates to your public GitHub repository before the submission deadline.  
-
----
-
-## 🌟 Final Note
-
-A strong foundation in planning, UI/UX design, and team collaboration will make the implementation phase smoother and more efficient.  
-Happy coding! ✨
